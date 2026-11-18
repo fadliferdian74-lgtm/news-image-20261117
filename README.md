@@ -1,7 +1,11 @@
 # THE WORLD TODAY — Tuesday 17 November 2026
 
+[![Competition](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117)
+[![Rank](https://make.fun/badge/news-image-20261117/fadliferdian74-lgtm/news-image-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117)
+[![Reward](https://make.fun/badge/news-image-20261117/fadliferdian74-lgtm/news-image-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117)
+
 Entry for the make.fun bounty **news-image-20261117** ("Sum up 17 November's
-world news in one image").
+world news in one image") — bounty page: https://make.fun/bounty/news-image-20261117.
 
 ![The World Today front page](entry.png)
 
