@@ -9,11 +9,14 @@ world news in one image") — bounty page: https://make.fun/bounty/news-image-20
 
 ![The World Today front page](entry.png)
 
-One front page, 17 stories: Ukraine's destruction of the Kerch Bridge as the
+One front page, 25 stories: Ukraine's destruction of the Kerch Bridge as the
 lead, the Quad summit in Manila, Bahrain's interception of Iranian drones,
 Nvidia's record quarter, the US losing measles-elimination status, a sunken
-gas tanker in the Black Sea, and twelve world briefs — plus the day's market
-moves in the footer.
+gas tanker in the Black Sea, and twenty world briefs — among them Congo's
+Ebola outbreak passing 11,000 cases, the COP31 fossil-fuel split in Antalya,
+Russian drones over Moldova's capital, Britain's settlement sanctions and
+Voyager 1 closing on one light-day from Earth — plus the day's market moves
+in the footer.
 
 ## How it was made
 

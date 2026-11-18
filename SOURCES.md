@@ -164,6 +164,87 @@ labelled as claims on the page, or left off it.
       to qualify for their first World Cup since 1998; he finished qualifying
       with 16 goals. Italy must go through the play-offs.
 
+## Added in the denser edition (25 stories)
+
+19. **Alaska: Peltola wins the last Senate race**
+    - Sources: Associated Press (race called Nov 17); Wall Street Journal
+      (Nov 17).
+    - Facts: The AP called Alaska's Senate race for Democrat Mary Peltola
+      over two-term Republican incumbent Dan Sullivan, 50.1% to 45.8% with
+      99% counted — the last Senate contest of the midterms to be resolved
+      and the ninth seat Democrats flipped, giving them a 56-seat Senate
+      majority. Peltola is the first Alaska Native elected to the US Senate.
+
+20. **COP31 in Antalya split over fossil fuels**
+    - Sources: Reuters (Antalya, Nov 17); Anadolu Agency (Nov 17).
+    - Facts: EU climate commissioner Wopke Hoekstra told the COP31 talks in
+      Antalya, Türkiye, that the deal must send the "strongest possible
+      signal" on the clean-energy transition and on immediate, deep and
+      sustained emission cuts. A draft deal issued by the Turkish and
+      Australian presidencies carries two rival fossil-fuel wordings —
+      "transitioning away" from 2023 and a stronger "phase out". The talks
+      are due to close on Friday (Nov 20).
+
+21. **UN warns of Gaza hypothermia deaths as winter nears**
+    - Sources: Reuters (Geneva, Nov 17); IOM and WFP joint statement
+      (Nov 17).
+    - Facts: The UN migration agency (IOM) warned of further deaths from
+      hypothermia in Gaza without more funding and shelter supplies. Heavy
+      rain has flooded tens of thousands of tents housing displaced people;
+      a 9-month-old baby died of suspected hypothermia the previous week.
+      Some 100,000 tents were waiting to enter Gaza, and IOM reported a
+      $173 million shortfall for its winter shelter programmes.
+
+22. **Russian drones cross Moldova; one over the capital**
+    - Sources: Reuters (Chisinau, Nov 17); Moldova Defence Ministry
+      (Nov 17).
+    - Facts: Seven drones violated Moldovan airspace over about two and a
+      half hours on Nov 17 during a large Russian attack on Ukraine; one
+      flew over the capital Chisinau and five came down near populated
+      areas. Moldova briefly closed its airspace. President Maia Sandu
+      pledged to press for further sanctions against Moscow; Russia denies
+      the drones were Russian.
+
+23. **Congo's Ebola outbreak passes 11,000 cases**
+    - Sources: WHO Director-General's Emergency Committee remarks (Nov 17);
+      UN News (Nov 17); Reuters analysis (Nov 17).
+    - Facts: The Bundibugyo-virus Ebola outbreak in DR Congo has more than
+      doubled in three months to over 11,000 cases and 5,400 deaths across
+      67 health zones in eight provinces, six months after it was declared.
+      Children account for more than a quarter of confirmed cases and a
+      third of deaths. Between 400 and 500 new cases are still reported
+      each week, and two-thirds of confirmed deaths occur outside treatment
+      centres.
+
+24. **Britain sanctions settlement firms and aid blockers**
+    - Sources: UK Foreign Office announcement (gov.uk, Nov 17); Reuters
+      (Nov 17).
+    - Facts: Britain imposed asset freezes and director disqualifications
+      on eight construction and property development firms involved in
+      building Israeli settlements in the occupied West Bank, and
+      sanctioned Tzav 9, an activist movement accused of blocking
+      humanitarian aid convoys entering Gaza — the first sanctions package
+      since the UK's September reset of its approach.
+
+25. **Cyberattack hits Equinor; gas output unaffected**
+    - Sources: Reuters (Oslo, Nov 17); NTB (Norwegian News Agency, Nov 17).
+    - Facts: Equinor, Europe's largest gas supplier, said it had detected
+      an ongoing cyberattack against some of its IT systems and had taken
+      steps to neutralise it; its internal email system was down. There
+      was no indication data had been stolen, and operations and
+      production were unaffected. Norway's National Security Authority
+      said it was aware of the incident.
+
+26. **Voyager 1 closes on one light-day from Earth**
+    - Sources: NASA / Jet Propulsion Laboratory (milestone reported
+      Nov 17); NPR (Nov 17).
+    - Facts: NASA's Voyager 1 probe, launched in 1977, was reported on
+      Nov 17 to reach a distance of one light-day from Earth on Wednesday
+      Nov 18 — about 25.9 billion kilometres, more than four times the
+      distance from the Sun to Pluto — the first human-made object to get
+      that far. From then on its radio signals take a full 24 hours to
+      reach Earth.
+
 ## Deliberately excluded (single-source or unconfirmed)
 
 - Robert Pattinson named as next James Bond — one entertainment source only.
